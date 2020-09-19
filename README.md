@@ -1,6 +1,6 @@
 # tranAdsLumpFoam
 
-Chemical transport and adsorption solver based on LFD and langmuir isotherm.
+Chemical transport and adsorption solver based on linear driving force (LDF) and langmuir isotherm.
 
 Adapted from combustion solver. Featured with time splitting of Strang scheme, stiff ODE solver, 
 
