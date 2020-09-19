@@ -6,4 +6,6 @@ Adapted from combustion solver. Featured with time splitting of Strang scheme, s
 
 Personally used for fixed bed simulation with fast reaction.
 
-Suceessfully compile on OpenFOAM v1912
+Successfully compile on OpenFOAM v1912
+
+Example cases are coming
